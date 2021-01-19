@@ -1,0 +1,211 @@
+body, html {
+    height: 100%;
+    width: 100%!important;
+  }
+  
+  .bg { 
+    /* The image used */
+    background-image: url("../img/logo/bg5.jpg");
+   
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.backgroundColor{
+    background-color: rgba(55, 64, 83, 0.8);
+   
+}
+.footerBackgroundColor{
+  background-color: rgba(22, 22, 22, 0.9);
+}
+.headerPopup{
+  position: absolute;
+  top: 20%;
+  left: 0%;
+  
+
+animation: animateZoom 2s;
+width: auto;
+}
+.tag{
+  width: 320px;
+  
+  background-color: rgba(88, 98, 121, 0.8);
+  padding: 100px 20px;
+ 
+
+  }
+.tag, h4, h3{
+font-family: sans-serif;
+font-weight:bold;
+color:white;
+
+}
+
+
+@keyframes animateZoom {
+  from {
+  left: -50%;
+  }
+  to {
+  right:0%; 
+  }
+  }
+
+.shadowIcon{
+  box-shadow: 0px 1px 10px  rgb(47, 62, 95) ;
+  
+}
+.borderRaduse{
+  border-radius: 10px;
+}
+
+.gap{
+  padding: 0px 20px;
+ 
+}
+/* .serviceBody{
+  background-color: rgba(88, 98, 121, 0.8);
+} */
+.serviceSection {
+ padding: 60px 0px 40px 0px;
+ width: 80%;
+  font-family: sans-serif;
+ margin: 0 auto;
+ text-align: center;
+
+}
+/* .testimonial {
+  font-size: 35px;
+  font-weight: 600;
+  font-family: Trebuchet MS, sans-serif;
+  color: rgb(68, 68, 68);
+} */
+#testimonial{
+  font-size: 40px;
+  font-weight: 600;
+  font-family: Trebuchet MS, sans-serif;
+  color: rgb(22, 56, 89);
+  
+}
+.testimonialP{
+  font-size: 22px;
+  color: rgb(19, 36, 95);
+  font-weight: 400;
+}
+
+.serviceSection p{
+  font-size: 22px;
+  color: rgb(19, 36, 95);
+  font-weight: 400;
+}
+.serviceSection h1{
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 50px;
+  padding-bottom: 10px;
+  font-family: Trebuchet MS, sans-serif;
+  color: rgb(27, 39, 107);  
+}
+.cardsTextStyle{
+  text-align: center;
+  font-weight: bold;
+  color: rgb(27, 39, 107);
+  font-family: sans-serif;
+  padding: 10px 0px 5px 0px;
+  padding-top: 10px;
+  font-size: 19px;
+
+}
+.cardsTextStyleP{
+  font-weight: 500;
+  color: rgb(35, 60, 148);
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 16px;
+}
+.fullServiceSection{
+  background-color: #f9f9f9;
+  
+}
+.width{
+  width:100%!important;
+}
+#serviceImg{
+  
+  height: 70%;
+  width:70%;
+  margin-left: 15%;
+
+ 
+}
+#testimonialContent{
+  font-size: 20px;
+  margin-top: -20px;
+}
+.widthTestimonial{
+  margin-left: 30px;
+}
+.widthTestimonial p{
+  font-size: 20px;
+}
+#testimonialDetails{
+  font-size: 20px;
+}
+
+.widthTestimonialRight{
+  /* margin-right: 30px; */
+  margin: 0px 15px 0px 15px;
+}
+
+.widthTestimonialMedal{
+  margin: 0px 30px;
+}
+
+.navbar-brand img{
+  width:100px;
+   height:45px;
+ 
+   margin-top: -8px;
+}
+
+
+
+
+::-webkit-scrollbar{
+  width: 15px;
+}
+::-webkit-scrollbar-track{
+  border: 10px solid #738dc7;
+ 
+ 
+}
+::-webkit-scrollbar-thumb{
+  
+  border-radius: 15px;
+  background:linear-gradient(
+    45deg,
+    #0640e1,
+    #79ff6c
+  );
+}
+
+
+
+/* some important link css
+1.img = https://mdbootstrap.com/docs/jquery/content/images/
+2.text & heading = https://mdbootstrap.com/docs/jquery/content/typography/
+3.bg img + text content = https://mdbootstrap.com/docs/jquery/css/background-image/
+4.color combination = https://mdbootstrap.com/docs/jquery/css/color-combination/
+5.text color and card = https://mdbootstrap.com/docs/jquery/css/text-color/
+6.gradient + button + card = https://mdbootstrap.com/docs/jquery/css/gradients/
+7.shadow = https://mdbootstrap.com/docs/jquery/css/shadows/
+css done
+*/
+

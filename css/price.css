@@ -1,0 +1,57 @@
+.price-header{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color : white;
+    font-family:sans-serif;
+    
+  }
+  .price-header h1{
+    font-size: 45px;
+  }
+  .price-header h3{
+    font-size: 30px;
+  }
+  .price_width{
+      width: 85%;
+      margin:0 auto;
+  }
+
+  .service1{
+    margin-top: 50px;
+    background: rgb(89, 136, 201);
+    padding: 12px;
+    border-left: 10px solid rgb(39, 71, 89);
+    margin-bottom: 20px!important;
+   
+}
+.service1 h3{
+  color:rgb(255, 255, 255);
+  font-size: 20px;
+  font-family:sans-serif;
+}
+
+.marginLeft{
+    /* margin-left: 4%!important;
+    margin-right: 1%!important; */
+   
+}
+.marginRight{
+    /* margin-right: 50px!important; */
+}
+.card-body{
+    background:#6a5188;
+    color: rgb(255, 255, 255)!important;
+}
+.card-body p{
+  
+    color: white!important;
+}
+/* .card-body h5{
+ 
+    text-align: center!important;
+} */
+
+/* semoli sisu mela  gabtoli ::-webkit-validation-bubble-message
+bihanggor bus 10 number bus tanjil */

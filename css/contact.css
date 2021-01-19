@@ -1,0 +1,29 @@
+.contact-bg { 
+  /* The image used */
+  background-image: url("../img/contact/contact.PNG");
+ 
+
+  /* Full height */
+  height: 60%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-color{
+  background-color: rgba(13, 48, 122, 0.8);
+}
+
+.about-header{
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color : white;
+  font-family:sans-serif;
+  
+}
+.about-header h1{
+  font-size: 45px;
+}

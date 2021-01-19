@@ -1,0 +1,95 @@
+.service-section{
+ 
+}
+.service-header{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color : white;
+    font-family:sans-serif;
+    
+  }
+  .service-header h2{
+    font-size: 45px;
+  }
+  
+.service-title{
+  text-align: center;
+    color : rgb(73, 70, 70);
+    font-family:  sans-serif;
+   margin: 40px 0px 50px 0px;
+    
+  }
+  .service-title h2{
+    font-size: 35px;
+    font-weight: 500;
+  }
+
+.service-title-header{
+   text-align: center;
+    color : rgb(15, 69, 100);
+    font-family:  sans-serif;
+    margin: 15px 0px;
+    
+}
+.marginTopForImg{
+  margin-top: 95px;
+}
+.marginTopForImg2{
+  margin-top: 95px;
+}
+.marginTopForImg3{
+  margin-top: 135px;
+}
+.service-title-header h2{
+  font-size: 23px;
+  font-weight: 500;
+
+}
+
+.service-title-des{
+  text-align: center;
+    color : rgb(15, 69, 100);
+    font-family:  sans-serif;
+    margin: 15px 0px;
+}
+.service-title-des h2{
+  font-size: 19px;
+  font-weight: 500;
+
+}
+.views{
+  /* margin-left: 40px;
+  margin-right: -30px; */
+  /* width:600px;
+  margin: 0 auto; */
+  margin-left: 20px;
+
+
+}
+.views p{
+  font-weight: normal;
+  font-size: 18px;  
+  color : rgb(21, 87, 126);
+}
+
+/* .views2 p{
+  font-weight: normal;
+  font-size: 19px;  
+  color : rgb(18, 84, 122);
+} */
+.sercice_width{
+  width: 97.50%;
+  margin:0 auto;
+}
+.service-section{
+  margin-top: 30px;
+}
+#button-style{
+  background-color: rgb(123, 97, 182)!important;
+  font-size: 17px!important;
+  margin:0px!important;
+  padding:10px 15px!important;
+}
+/* style="background-color: rgb(27, 87, 128)!important; font-size: 18px; margin:0px; padding:10px 15px; */
